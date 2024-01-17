@@ -1,0 +1,4 @@
+interface IColorable
+{
+    void HowToColor();
+}
